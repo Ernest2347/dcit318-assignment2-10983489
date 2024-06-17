@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\bin\Debug\net8.0\Abstract classes and methods.exe
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\bin\Debug\net8.0\Abstract classes and methods.deps.json
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\bin\Debug\net8.0\Abstract classes and methods.runtimeconfig.json
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\bin\Debug\net8.0\Abstract classes and methods.dll
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\bin\Debug\net8.0\Abstract classes and methods.pdb
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.sourcelink.json
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.dll
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\refint\Abstract classes and methods.dll
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.pdb
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\Abstract classes and methods.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ernest\Abstract classes and methods\obj\Debug\net8.0\ref\Abstract classes and methods.dll
