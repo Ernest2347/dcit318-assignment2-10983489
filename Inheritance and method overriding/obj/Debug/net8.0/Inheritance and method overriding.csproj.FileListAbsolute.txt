@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.exe
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.deps.json
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.runtimeconfig.json
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.dll
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.pdb
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.sourcelink.json
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.dll
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\refint\Inheritance and method overriding.dll
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.pdb
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ernest\Inheritance and method overriding\obj\Debug\net8.0\ref\Inheritance and method overriding.dll
